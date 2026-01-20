@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, my name is Roi Flores.
+## About me
+I am a student at <b><i>ITESO</b></i>
 
 <!--
 **Roi-flores13/Roi-flores13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
