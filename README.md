@@ -29,9 +29,13 @@ I'm currenlty working in Oracle as a Intern Software Engineer in the Hospitality
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Herramientas adicionales 🔩
+### Additional Technologies 🔩
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## Contact 📬
+LinkedIn: <a href="www.linkedin.com/in/roi-jared-flores-garza-stone-41a40b26a"> Roi Flores </i>
+E-mail: roiflores62@gmail.com
 <!--
 **Roi-flores13/Roi-flores13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
