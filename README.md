@@ -34,7 +34,7 @@ I'm currenlty working in Oracle as a Intern Software Engineer in the Hospitality
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contact 📬
-LinkedIn: <a href="www.linkedin.com/in/roi-jared-flores-garza-stone-41a40b26a"> Roi Flores </i>
+LinkedIn: <a href="www.linkedin.com/in/roi-jared-flores-garza-stone-41a40b26a"> Roi Flores </i> <br>
 E-mail: roiflores62@gmail.com
 <!--
 **Roi-flores13/Roi-flores13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
