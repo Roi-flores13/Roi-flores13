@@ -30,7 +30,6 @@ I am a 6th-semester student at **ITESO**, deeply passionate about AI and buildin
 ---
 
 ## 🚀 Featured Projects
-*Aquí puedes enlazar tus mejores repositorios:*
 - **[Sleep Quality predictor](https://github.com/Roi-flores13/End-to-end_ML_sleep_quality_predictor):** End-to-end MLOPS project, used MLFlow, Databricks, and Prefect to automate the ML Pipeline.
 - **[Api To Dashboard Pipeline](https://github.com/Roi-flores13/data_engineering):** Data Workflow Pipeline to automate dashboard from data extracted from an API and processed through Snowflake.
 
@@ -43,7 +42,7 @@ I am a 6th-semester student at **ITESO**, deeply passionate about AI and buildin
 ---
 
 ## ⚡ Beyond Coding
-- **Interests:** I'm fascinated by FinTech, MLOps, and how Data Science can impact urban development.
+- **Interests:** I'm fascinated by learning, I'm always trying to learn something new (not always something about tech).
 - **Hobbies:** In my free time, you'll find me reading something cool, listening to vynils or outside exercising.
 
 ---
