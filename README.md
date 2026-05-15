@@ -32,6 +32,7 @@ I am a 6th-semester student at **ITESO**, deeply passionate about AI and buildin
 ## 🚀 Featured Projects
 - **[Sleep Quality predictor](https://github.com/Roi-flores13/End-to-end_ML_sleep_quality_predictor):** End-to-end MLOPS project, used MLFlow, Databricks, and Prefect to automate the ML Pipeline.
 - **[Api To Dashboard Pipeline](https://github.com/Roi-flores13/data_engineering):** Data Workflow Pipeline to automate dashboard from data extracted from an API and processed through Snowflake.
+- **[Telegram Bot for NBA Reports](https://github.com/Roi-flores13/ApiToReport):** Created Telegram Bot to retrieve NBA data from an API and automatically send a daily recap using Github actions.
 
 ---
 
